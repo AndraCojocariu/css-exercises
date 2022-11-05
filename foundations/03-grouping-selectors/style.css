@@ -1,0 +1,14 @@
+.something,
+.another-something {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.something {
+    background-color: rgb(9, 1, 1);
+    color: hsl(59, 100%, 75%);
+}
+
+.another-something{
+    background-color: #ffff00;
+}
