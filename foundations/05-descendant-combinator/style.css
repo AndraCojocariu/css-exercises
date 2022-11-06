@@ -4,3 +4,10 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* Another possibility to write this: 
+ 
+div p {..}
+Or: div .text {..}
+Or: .container p{..}
+/*
